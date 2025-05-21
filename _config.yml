@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "E_8 manifold的个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   name             : "E_8 manifold"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "北京海淀"
+  employer         : "BNU"
   uri              : # URL
   email            : "xjhxyzh5119@foxmail.com" 
 
