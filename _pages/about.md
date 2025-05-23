@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+%title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-我是E_8 manifold，知乎[笑颜之花](https://www.zhihu.com/people/xiao-yan-zhi-hua)。This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我是E_8 manifold，知乎[笑颜之花](https://www.zhihu.com/people/xiao-yan-zhi-hua)。目前是一名数学专业的本科生，学习兴趣是偏拓扑一些的几何，曾经读过三角剖分猜想、庞加莱猜想等topic。
+
+我的一句座右铭是“当好自己终生的通识教育导师”，于是我涉猎广泛，如 口琴，伤口包扎，电脑维修，游泳，裁缝等等，但做的不精；现在正准备练习钢琴，将来会考虑学习电气电路的知识，并做一些小手工。
+
+文艺作品方面，我小学初中阶段看的动画比较多，其中传播真善美的部分也部分地塑造了我的价值观。我喜欢一些洋溢青春活力的作品，比如《比宇宙更远的地方》，讲的是4名中学生克服种种困难，坐上南极科考船去南极的故事；再比如《穿越时空的少女》，女主角是一个比较“跳脱”的高中生，和两名男生的朋友关系很好，在她意外获得“time leap”的能力之后，不出所料地发生了一些有趣的故事，有情感，有尴尬，有恐慌，青春的五味杂陈。
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
