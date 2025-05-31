@@ -13,13 +13,13 @@ Education
 ======
 * 本科 北京师范大学数学科学学院, 2022-2026
 
-
+[//]: # (
 <!--
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 -->
-
+)
 
 Work experience
 ======
