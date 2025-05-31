@@ -15,6 +15,9 @@ Education
 %* M.S. in Jekyll, GitHub University, 2014
 %* B.S. in GitHub, GitHub University, 2012
 * 本科 北京师范大学数学科学学院, 2022-2026
+
+
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
