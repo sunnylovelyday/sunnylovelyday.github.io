@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是E_8 manifold，知乎[笑颜之花](https://www.zhihu.com/people/xiao-yan-zhi-hua)。目前是一名数学专业的本科生，学习兴趣是偏拓扑一些的几何，曾经读过三角剖分猜想、庞加莱猜想等topic。大致上学习了同调论、微分流形、黎曼几何的知识，参加了2025年的几何与拓扑丘赛，取得了个人优胜奖。
+我是E_8 manifold，知乎[笑颜之花](https://www.zhihu.com/people/xiao-yan-zhi-hua)。目前是一名数学专业的本科生，学习兴趣是偏拓扑一些的几何，曾经读过[三角剖分猜想](https://sunnylovelyday.github.io/files/%E4%B8%89%E8%A7%92%E5%89%96%E5%88%86%E7%8C%9C%E6%83%B3%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)、[庞加莱猜想](https://sunnylovelyday.github.io/files/survey_on_Poincare_Conjecture5.23revised.pdf)等topic。大致上学习了同调论、微分流形、黎曼几何的知识，参加了2025年的几何与拓扑丘赛，取得了个人优胜奖。
 
 我的一句座右铭是“当好自己终生的通识教育导师”，于是我涉猎广泛，如 口琴，伤口包扎，电脑维修，游泳，裁缝，理发等等，但做的不精；现在正准备练习钢琴，将来会考虑学习电气电路的知识，并做一些电子小手工。我现在很羡慕一些建模师的作品，3D动画能够实现一些几何变换的可视化，比如B站用户[璐十二的作品](https://www.bilibili.com/video/BV1384y197p8/)。我很希望我也能掌握这种技能，能帮我获得更健全的几何直观。
 
