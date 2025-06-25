@@ -257,7 +257,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      read_time: true
   # _publications
   - scope:
       path: ""
@@ -283,7 +282,6 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      read_time: true
       share: true
 
 
