@@ -4,8 +4,8 @@ collection: teaching
 type: "本科生课程"
 permalink: /teaching/2025-summer-AT
 venue: "腾讯会议"
-date: 2025-6-27
-location: "北京, 中国"
+date: 2025-06-27
+location: "Beijing, China"
 ---
 
 这是一个面向本科生的代数拓扑学习班，主要的参考材料是尤承业《基础拓扑学讲义》的基本群与覆叠空间部分（第四章和第五章），以及姜伯驹《同调论》整本书，还会添加一些简单的3维拓扑、向量场等主题。
