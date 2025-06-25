@@ -4,7 +4,7 @@ collection: teaching
 type: "本科生课程"
 permalink: /teaching/2025-summer-AT
 venue: "腾讯会议，QQ群号：714025046"
-date: 2025.6.27
+date: 2025-6-27
 location: "北京, 中国"
 ---
 
