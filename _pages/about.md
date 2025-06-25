@@ -14,10 +14,8 @@ redirect_from:
 关于影视作品的爱好，我上小学和初中时看的动画比较多，其中传播真善美的部分也部分地塑造了我的价值观。我喜欢一些洋溢青春活力的作品，比如《比宇宙更远的地方》，讲的是4名中学生克服种种困难，坐上南极科考船去南极的故事；再比如《穿越时空的少女》，女主角是一个比较“跳脱”的高中生绀野真琴(就是我主页的头像)，和两名男生的朋友关系很好，在她意外获得“time leap”的能力之后，不出所料地发生了一些有趣的故事，有情感，有尴尬，有逃避，皆是青春的五味杂陈。
 
 
-
-
 我的主页采用了一套成熟的模板[Academic Pages template](https://github.com/academicpages/academicpages.github.io)，在
-[Publications](https://sunnylovelyday.github.io//publications/)，[CV](https://sunnylovelyday.github.io//cv/)等模块还留了一些模板的内容没有删除。包括以下是模板的说明文字，我将会在未来的某一天删除。
+[Publications](https://sunnylovelyday.github.io//publications/)，[CV](https://sunnylovelyday.github.io//cv/)等模块还留了一些模板的内容没有删除。以下是模板的说明文字，我将在未来的某一天删除。
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
