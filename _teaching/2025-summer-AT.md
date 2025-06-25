@@ -2,7 +2,7 @@
 title: "代数拓扑学习班（2025夏）"
 collection: teaching
 type: "本科生课程"
-permalink: /teaching/2025_summer_AT
+permalink: /teaching/2025-summer-AT
 venue: "腾讯会议，QQ群号：714025046"
 date: 2025.6.27
 location: "北京, 中国"
