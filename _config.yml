@@ -25,7 +25,7 @@ author:
   avatar           : "穿越时空的少女.jpg"
   name             : "E_8 manifold"
   pronouns         : # example: "she/her"  
-  bio              : "简介"
+  bio              : "学生"
   location         : "北京海淀"
   employer         : "BNU"
   uri              : # URL
@@ -74,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # "xiao-yan-zhi-hua"
+  zhihu            : "xiao-yan-zhi-hua"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
