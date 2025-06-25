@@ -1,5 +1,5 @@
 ---
-title: "代数拓扑学习班（2025夏）"
+title: "Algebraic Topology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
