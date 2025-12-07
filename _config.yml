@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "E_8 manifold的个人主页"
+title                    : "Homepage of Jinghao Xu"
 title_separator          : "-"
-name                     : &name "E_8 manifold"
-description              : &description "学生"
+name                     : &name "Jinghao Xu"
+description              : &description "Math Student"
 url                      : https://sunnylovelyday.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "E_8 manifold"
   pronouns         : # example: "she/her"  
   bio              : "学生"
-  location         : "北京海淀"
+  location         : "Haidian District, Beijing"
   employer         : "BNU"
   uri              : # URL
   email            : "xjhxyzh5119@foxmail.com" 
