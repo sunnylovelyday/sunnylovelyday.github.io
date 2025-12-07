@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 本科 北京师范大学数学科学学院, 2022-2026
+* Undergraduate degree *Beijing Normal Univeristy, School of Mathematical Sciences*, 2022-2026
 
 
 <!--
@@ -23,29 +23,18 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 - Spring 2025: minister of Academic Discussion Department 
+  * BNU math
+  * Duties includes: Organizing pure math seminars
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *Toefl* reading 25, listening 24, speaking 22, writing 22, 93 in totle, tested on 8/11/2025
+* Programming
+  * MATLAB
+  * C language
 
 Publications
 ======
@@ -67,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Having organized activities of inviting professors to give lectures; organizing seminars.
