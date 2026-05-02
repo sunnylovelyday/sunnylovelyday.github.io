@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* *University of Bonn, Department of Mathematics*, M.S. 2022-2026
+* *University of Bonn, Department of Mathematics*, M.S. 2026-
 * *Beijing Normal Univeristy, School of Mathematical Sciences*, B.S. 2022-2026
 
 
