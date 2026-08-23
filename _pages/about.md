@@ -32,6 +32,6 @@ This homepage is built using the [Academic Pages template](https://github.com/ac
 我的主页采用了一套成熟的模板[Academic Pages template](https://github.com/academicpages/academicpages.github.io)，在
 [Publications](https://sunnylovelyday.github.io//publications/)，[CV](https://sunnylovelyday.github.io//cv/)等模块还留了一些模板的内容没有删除。
 
-
+---
 
 
