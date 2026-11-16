@@ -1,0 +1,56 @@
+---
+layout: single
+title: "Amusement"
+permalink: /amusement/
+author_profile: true
+excerpt: "A little logic between proofs: play Minesweeper in your browser."
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/minesweeper.css' | relative_url }}">
+
+<p>A little logic between proofs. <span lang="zh">在证明之间，换个小谜题。</span></p>
+
+<section class="minesweeper" id="minesweeper" aria-labelledby="ms-title" hidden>
+  <div class="ms-heading">
+    <h2 id="ms-title">Minesweeper <span lang="zh">扫雷</span></h2>
+    <p>Find every safe square. Leave the mines alone.</p>
+  </div>
+
+  <div class="ms-controls">
+    <div class="ms-difficulty">
+      <label for="ms-difficulty">Difficulty / <span lang="zh">难度</span></label>
+      <select id="ms-difficulty">
+        <option value="beginner">Beginner / 初级 · 9 × 9 · 10 mines</option>
+        <option value="intermediate">Intermediate / 中级 · 16 × 16 · 40 mines</option>
+        <option value="expert">Expert / 高级 · 30 × 16 · 99 mines</option>
+      </select>
+    </div>
+    <button type="button" class="ms-button ms-new" id="ms-new">New game / <span lang="zh">重开</span></button>
+    <button type="button" class="ms-button" id="ms-flag-mode" aria-pressed="false">⚑ Flag mode / <span lang="zh">插旗</span></button>
+  </div>
+
+  <div class="ms-stats" aria-label="Game statistics">
+    <div><span>Mines left / <span lang="zh">剩余雷数</span></span><output id="ms-remaining">10</output></div>
+    <div><span>Time / <span lang="zh">用时</span></span><output id="ms-time" aria-label="Elapsed time">00:00</output></div>
+    <div><span>Best / <span lang="zh">最佳</span></span><output id="ms-best" aria-label="Best time for this difficulty">—</output></div>
+  </div>
+
+  <p class="ms-status" id="ms-status" role="status" aria-live="polite" aria-atomic="true"></p>
+  <div class="ms-board-viewport" tabindex="0" role="region" aria-label="Scrollable game board" aria-describedby="ms-scroll-hint">
+    <div class="ms-board" id="ms-board" role="group" aria-label="Minesweeper board" aria-describedby="ms-help ms-keyboard"></div>
+  </div>
+  <p class="ms-scroll-hint" id="ms-scroll-hint">Larger boards scroll sideways. / <span lang="zh">大棋盘可左右滑动。</span></p>
+
+  <details class="ms-help">
+    <summary>How to play / <span lang="zh">玩法说明</span></summary>
+    <p id="ms-help">Click or tap to reveal a square. A number counts the mines in its eight neighbouring squares. Right-click to place or remove a flag. On a phone, turn on <strong>Flag mode</strong> to flag squares, then turn it off to reveal them.</p>
+    <p lang="zh">点击翻开方格，数字表示周围八格中的雷数。右键插旗或取消；手机上可先开启“插旗”模式，标记后再关闭。首次翻开的方格及其周围一圈不会有雷。翻开所有无雷方格即获胜，无需标出全部地雷。</p>
+    <p>Click a revealed number after placing that many neighbouring flags to open its remaining neighbours. Incorrect flags can still lead to a mine!</p>
+    <p id="ms-keyboard">Keyboard: Tab into the board, use arrow keys to move, Enter or Space to use the selected mode, and F to toggle a flag. Best times are saved in this browser when storage is available.</p>
+  </details>
+</section>
+
+<noscript><p>Please enable JavaScript to play Minesweeper. / <span lang="zh">请启用 JavaScript 后游玩扫雷。</span></p></noscript>
+
+<script src="{{ '/assets/js/minesweeper-engine.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/minesweeper.js' | relative_url }}" defer></script>
